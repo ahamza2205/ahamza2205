@@ -16,7 +16,7 @@
   <!-- Facebook -->
   <a href="https://www.facebook.com/ahamzaa2205/" target="_blank">
     <img alt="Facebook"
-         src="https://img.shields.io/badge/ahamzaa2205?style=flat-square&logo=facebook&logoColor=white&labelColor=2b2b2b">
+         src="https://img.shields.io/badge/facebook-ahamzaa2205-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=2b2b2b">
   </a>
   <!-- X / Twitter -->
   <a href="https://x.com/ahamza2205" target="_blank">
