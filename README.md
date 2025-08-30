@@ -1,27 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdul-Rahman Hamza</h1>
 <h3 align="center">Passionate Android Developer in the Making | Lifelong Learner | Crafting Code with Creativity and Purpose</h3>
 
-<!-- 🔗 Social badges row -->
+<!-- 🔗 Social badges row (no blue gaps) -->
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abdul-rahman-hamza-/" target="_blank">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/linkedin-AbdulRahmanHamza-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=2b2b2b">
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/ahamza2205/" target="_blank">
-    <img alt="Instagram"
-         src="https://img.shields.io/badge/instagram-%40ahamza2205-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=2b2b2b">
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/ahamzaa2205/" target="_blank">
-    <img alt="Facebook"
-         src="https://img.shields.io/badge/facebook-ahamzaa2205-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=2b2b2b">
-  </a>
-  <!-- X / Twitter -->
-  <a href="https://x.com/ahamza2205" target="_blank">
-    <img alt="Twitter"
-         src="https://img.shields.io/badge/twitter-%40ahamza2205-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=2b2b2b">
+  <a href="https://www.linkedin.com/in/abdul-rahman-hamza-/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-AbdulRahmanHamza-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=2b2b2b">
+  </a><!--
+  --><a href="https://www.instagram.com/ahamza2205/" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%40ahamza2205-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=2b2b2b">
+  </a><!--
+  --><a href="https://www.facebook.com/ahamzaa2205/" target="_blank" rel="noopener noreferrer">
+    <img alt="Facebook" src="https://img.shields.io/badge/facebook-ahamzaa2205-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=2b2b2b">
+  </a><!--
+  --><a href="https://x.com/ahamza2205" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%40ahamza2205-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=2b2b2b">
   </a>
 </p>
 
