@@ -18,7 +18,7 @@
 </p>
 
 <ul>
-  <li>💬 Ask me about <b>Android, Jetpack Compose (CMP),Kotlin Multiplatform (KMP),Flutter</b></li>
+  <li>💬 Ask me about <b> Android (Java / Kotlin) , Jetpack Compose (CMP) , Kotlin Multiplatform (KMP) , Flutter (Dart) </b></li>
   <li>📫 How to reach me <b>abdulrahmanhamza2205@gmail.com</b></li>
 </ul>
 
