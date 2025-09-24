@@ -18,8 +18,7 @@
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning <b>Kotlin Multiplatform (KMP)</b></li>
-  <li>💬 Ask me about <b>Android, Jetpack Compose, Flutter</b></li>
+  <li>💬 Ask me about <b>Android, Jetpack Compose (CMP),Kotlin Multiplatform (KMP),Flutter</b></li>
   <li>📫 How to reach me <b>abdulrahmanhamza2205@gmail.com</b></li>
 </ul>
 
