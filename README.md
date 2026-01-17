@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=120&section=header" width="100%" />
-</div>
-
-<div align="center">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="middle" width="45%">
