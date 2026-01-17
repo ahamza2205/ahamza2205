@@ -1,72 +1,89 @@
-<h1 align="center">Hi 👋, I'm Abdul-Rahman Hamza</h1>
-<h3 align="center">Passionate Android Developer in the Making | Lifelong Learner | Crafting Code with Creativity and Purpose</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=120&section=header" width="100%" />
+</div>
 
-<!-- 🔗 Social badges row (no blue gaps) -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-rahman-hamza-/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-AbdulRahmanHamza-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=2b2b2b">
-  </a><!--
-  --><a href="https://www.instagram.com/ahamza2205/" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%40ahamza2205-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=2b2b2b">
-  </a><!--
-  --><a href="https://www.facebook.com/ahamzaa2205/" target="_blank" rel="noopener noreferrer">
-    <img alt="Facebook" src="https://img.shields.io/badge/facebook-ahamzaa2205-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=2b2b2b">
-  </a><!--
-  --><a href="https://x.com/ahamza2205" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%40ahamza2205-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=2b2b2b">
-  </a>
-</p>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="45%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+    </td>
+    <td align="center" valign="middle" width="55%">
+      <h1 style="margin: 0; padding-bottom: 10px; font-size: 50px; border: none; white-space: nowrap;">Abdul-Rahman Hamza</h1>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Android+Developer+Extraordinaire;Jetpack+Compose+Enthusiast;Kotlin+Multiplatform+Explorer" alt="Typing SVG" />
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://www.linkedin.com/in/abdul-rahman-hamza-/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=white&label=" height="35"/></a>
+        <a href="https://x.com/ahamza2205" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=white&label=" height="35"/></a>
+        <a href="https://www.instagram.com/ahamza2205/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=white&label=" height="35"/></a>
+        <a href="https://www.facebook.com/ahamzaa2205/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=white&label=" height="35"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
-<ul>
-  <li>💬 Ask me about <b> Android (Java / Kotlin) , Jetpack Compose (CMP) , Kotlin Multiplatform (KMP) , Flutter (Dart) </b></li>
-  <li>📫 How to reach me <b>abdulrahmanhamza2205@gmail.com</b></li>
-</ul>
+---
 
-<!-- (Optional) If you prefer icons instead of badges, you can re-enable this block and remove the badges above.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-rahman-hamza-/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
--->
+### 📝 My Journey
+- 📱 I specialize in building high-performance Android apps using **Kotlin** & **Jetpack Compose**.
+- 🧪 I enjoy exploring **Kotlin Multiplatform (KMP)** and clean architecture.
+- 🎨 I have a keen eye for design, bridging the gap between **Figma** and Code.
+- 📫 Reach me at: **abdulrahmanhamza2205@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-</p>
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="55" height="55" />
+      <br><b>Android</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" />
+      <br><b>Kotlin</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" />
+      <br><b>Flutter</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" />
+      <br><b>Dart</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" />
+      <br><b>Firebase</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+      <br><b>Postman</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
+      <br><b>C++</b>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
