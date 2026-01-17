@@ -31,55 +31,73 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack (Clickable)
 
 <div align="center">
 <table border="0">
   <tr>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="55" height="55" />
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="55" height="55" />
+      </a>
       <br><b>Android</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" />
+      <a href="https://kotlinlang.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" />
+      </a>
       <br><b>Kotlin</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" />
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="55" height="55" />
+      </a>
       <br><b>Java</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" />
+      <a href="https://flutter.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" />
+      </a>
       <br><b>Flutter</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" />
+      <a href="https://dart.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" />
+      </a>
       <br><b>Dart</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" />
+      <a href="https://firebase.google.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" />
+      </a>
       <br><b>Firebase</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+      <a href="https://www.figma.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+      </a>
       <br><b>Figma</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+      <a href="https://www.postman.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+      </a>
       <br><b>Postman</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+      <a href="https://git-scm.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+      </a>
       <br><b>Git</b>
     </td>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
+      <a href="https://isocpp.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
+      </a>
       <br><b>C++</b>
     </td>
   </tr>
 </table>
 </div>
-
----
