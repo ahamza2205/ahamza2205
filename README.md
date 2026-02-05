@@ -25,8 +25,10 @@
 
 ### 📝 My Journey
 - 📱 I specialize in building high-performance Android apps using **Kotlin** & **Jetpack Compose**.
-- 🧪 I enjoy exploring **Kotlin Multiplatform (KMP)** and clean architecture.
+- 🧪 I enjoy exploring **Kotlin Multiplatform (KMP)**, **Clean Architecture**, and modern Android architecture.
+- ⚡ Experienced with **MVVM**, **Coroutines & Flow**, **Hilt**, **Room**, **Retrofit**, and **Firebase**.
 - 🎨 I have a keen eye for design, bridging the gap between **Figma** and Code.
+- 📦 Familiar with **CI/CD**, **Play Console**, and production releases.
 - 📫 Reach me at: **abdulrahmanhamza2205@gmail.com**
 
 ---
